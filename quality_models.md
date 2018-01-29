@@ -6,14 +6,14 @@ This document intends to summarise information about quality models in software 
 JSON files available:
 
 * [ [Download](samples/qm_ossmeter.json) ] The JSON file for the ossmeter default quality model definition.
-* [ [Download](samples/qm_alambic.json) ] The JSON file for the Alambic default quality model for Eclipse.
-* [ [Download](samples/qm_polarsys.json) ] The JSON file for the ossmeter default quality model definition.
+* [ [Download](samples/qm_alambic.json) ] The JSON file for the [Alambic](https://alambic.io) default [quality model](http://eclipse.castalia.camp/documentation/quality_model.html) for Eclipse.
+* [ [Download](samples/qm_polarsys.json) ] The JSON file for the [PolarSys](https://wiki.polarsys.org/EclipseQualityModel) [quality model](http://dashboard.polarsys.org/documentation/quality_model.html) definition.
 
 Pictures (exports) available:
 
 * [ [Download](images/qm_ossmeter.png) ] The PNG export of the ossmeter default quality model.
-* [ [Download](images/qm_polarsys_medium.png) ] The PNG export of the ossmeter default quality model.
-* [ [Download](images/qm_polarsys_small.png) ] The PNG export of the ossmeter default quality model.
+* [ [Download](images/qm_polarsys_medium.png) ] The PNG export of the polarsys quality model (large view).
+* [ [Download](images/qm_polarsys_simple.png) ] The PNG export of the polarsys quality model (simple view).
 
 
 ## Examples of implementation

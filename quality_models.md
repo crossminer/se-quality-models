@@ -3,11 +3,17 @@
 
 This document intends to summarise information about quality models in software engineering tools and frameworks, and especially how they are defined in terms of structure, format, and content. The goals behind this information is to define a general-purpose format for the definition of quality models in tools.
 
-Files available:
+JSON files available:
 
-* [ [Download](samples/ossmeter_qm.json) ] The JSON file for the ossmeter default quality model definition.
-* [ [Download](samples/eclipse_quality_model.json) ] The JSON file for the Alambic default quality model for Eclipse.
-* [ [Download](images/ossmeter_qm.png) ] The PNG export of the ossmeter default quality model.
+* [ [Download](samples/qm_ossmeter.json) ] The JSON file for the ossmeter default quality model definition.
+* [ [Download](samples/qm_alambic.json) ] The JSON file for the Alambic default quality model for Eclipse.
+* [ [Download](samples/qm_polarsys.json) ] The JSON file for the ossmeter default quality model definition.
+
+Pictures (exports) available:
+
+* [ [Download](images/qm_ossmeter.png) ] The PNG export of the ossmeter default quality model.
+* [ [Download](images/qm_polarsys_medium.png) ] The PNG export of the ossmeter default quality model.
+* [ [Download](images/qm_polarsys_small.png) ] The PNG export of the ossmeter default quality model.
 
 
 ## Examples of implementation

@@ -7,6 +7,13 @@ This repository contains information about the quality models used in software e
 * The [samples](/samples/) directory contains examples of quality models as implemented in tools.
 * The [images](/images/) directory contains pictures and visualisations to help understand how the quality models are structured.
 
+# Meditor
+
+Meditor is developped by Alvaro del Castillo, from Bitergia. Code can be found on GitHub, and a demonstration instance using the Docker image is available too:
+
+* Meditor on GitHub: [https://github.com/acs/meditor](https://github.com/acs/meditor) 
+* Meditor demonstrator: [http://meditor.castalia.camp](http://meditor.castalia.camp)
+
 # Examples
 
 The following examples and tools are used in the process:

@@ -4,8 +4,8 @@
 This repository contains information about the quality models used in software engineering. It specifically targets the implementation (format) of such quality models and provides a quick review of existing material.
 
 * [Quality Models](/quality_models.html) describes the intended format.
-* The [samples](/samples/) directory contains examples of quality models as implemented in tools.
-* The [images](/images/) directory contains pictures and visualisations to help understand how the quality models are structured.
+* The [samples](https://github.com/borisbaldassari/se-quality-models/tree/master/samples) directory contains examples of quality models as implemented in tools.
+* The [images](https://github.com/borisbaldassari/se-quality-models/tree/master/images) directory contains pictures and visualisations to help understand how the quality models are structured.
 
 # Meditor
 
